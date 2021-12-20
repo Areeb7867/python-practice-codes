@@ -10,7 +10,7 @@ def friends(discription):
     else:
         print('not a friend')
 
-discription=input('enter the name :')
+discription=input('enter the name:')
 friends(discription)
 
 
